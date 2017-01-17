@@ -1,0 +1,5 @@
+<application>
+  <component name="LeiningenRunnerSettings">
+    <option name="gpgPath" value="/usr/bin/gpg" />
+  </component>
+</application>
