@@ -445,6 +445,7 @@
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="fff4b8" />
+        <option name="EFFECT_COLOR" value="c2b77e" />
       </value>
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
