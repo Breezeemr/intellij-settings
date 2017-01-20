@@ -1,0 +1,3 @@
+<templateSet group="Clojure">
+  <template name="figwheelrepl" value="(do (use 'figwheel-sidecar.repl-api) (cljs-repl))" shortcut="ENTER" description="Run a figwheel repl" toReformat="false" toShortenFQNames="true" />
+</templateSet>

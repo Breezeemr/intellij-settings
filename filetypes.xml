@@ -1,9 +1,34 @@
 <application>
   <component name="CommunityFileTypes" version="11">
-    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;.lein-*;.nrepl-port;" />
     <extensionMap>
+      <mapping ext="dtm" type="EDN" />
+      <mapping ext="csv" type="Native" />
+      <mapping pattern="StoredCredential" type="PLAIN_TEXT" />
+      <mapping ext="yaml" type="PLAIN_TEXT" />
       <mapping ext="tagx" type="XML" />
       <mapping ext="jspx" type="XML" />
+    </extensionMap>
+    <setting name="fileTypeChangedCounter" value="1" />
+  </component>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.o;*.obj;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping ext="postinst" type="Bash" />
+      <mapping ext="less" type="CSS" />
+      <mapping ext="boot" type="Clojure" />
+      <mapping ext="dtm" type="EDN" />
+      <mapping pattern=".gitattributes" type="Git file" />
+      <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping pattern="storm-supervisor" type="PLAIN_TEXT" />
+      <mapping pattern="StoredCredential" type="PLAIN_TEXT" />
+      <mapping pattern="defaults" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
+      <mapping ext="fo" type="XML" />
     </extensionMap>
   </component>
 </application>
