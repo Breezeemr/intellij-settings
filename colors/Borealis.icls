@@ -32,7 +32,7 @@
     <option name="READONLY_BACKGROUND" value="13161c" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="13161c" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
-    <option name="RIGHT_MARGIN_COLOR" value="323232" />
+    <option name="RIGHT_MARGIN_COLOR" value="5b5b5b" />
     <option name="SELECTED_INDENT_GUIDE" value="505050" />
     <option name="SELECTED_TEARLINE_COLOR" value="787878" />
     <option name="SELECTION_BACKGROUND" value="434751" />
@@ -538,7 +538,6 @@
         <option name="FOREGROUND" value="db4233" />
       </value>
     </option>
-    <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />
     <option name="Groovy method declaration">
       <value />
     </option>
@@ -741,7 +740,6 @@
         <option name="FOREGROUND" value="ffd7b8" />
       </value>
     </option>
-    <option name="List/map to object conversion" baseAttributes="JAVA_NUMBER" />
     <option name="MACRONAME">
       <value>
         <option name="FOREGROUND" value="908b25" />
@@ -1071,7 +1069,6 @@
         <option name="FOREGROUND" value="d1243b" />
       </value>
     </option>
-    <option name="Unresolved reference access" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="VELOCITY_NUMBER">
       <value>
         <option name="FOREGROUND" value="6897bb" />
