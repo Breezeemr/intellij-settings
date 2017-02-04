@@ -18,7 +18,7 @@
   :cljs.core/-&gt;&gt; 0
   :clojure.core/-&gt; 0
   :clojure.core/-&gt;&gt; 0
-  :clojure.core.match/match 0
+  :clojure.core.match/match :only-indent
   :cursive.formatting/align-binding-forms true
   :cursive.formatting/default-only-indent true
   :storefront.client.core/let-ensure :only-indent
