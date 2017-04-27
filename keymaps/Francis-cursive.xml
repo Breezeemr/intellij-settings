@@ -93,6 +93,9 @@
   <action id=":cursive.repl.actions/load-file">
     <keyboard-shortcut first-keystroke="alt c" second-keystroke="alt f" />
   </action>
+  <action id=":cursive.repl.actions/macroexpansion">
+    <keyboard-shortcut first-keystroke="alt c" second-keystroke="alt m" />
+  </action>
   <action id=":cursive.repl.actions/run-last-sexp">
     <keyboard-shortcut first-keystroke="alt c" second-keystroke="alt c" />
   </action>
@@ -110,6 +113,15 @@
   </action>
   <action id=":cursive.testing.actions/remove-test-markers">
     <keyboard-shortcut first-keystroke="shift ctrl back_space" />
+  </action>
+  <action id=":cursive.testing.actions/rerun-last-test">
+    <keyboard-shortcut first-keystroke="alt c" second-keystroke="alt z" />
+  </action>
+  <action id=":cursive.testing.actions/run-ns-tests">
+    <keyboard-shortcut first-keystroke="alt c" second-keystroke="alt a" />
+  </action>
+  <action id=":cursive.testing.actions/run-single-test">
+    <keyboard-shortcut first-keystroke="alt c" second-keystroke="alt s" />
   </action>
   <action id="CopyPaths">
     <keyboard-shortcut first-keystroke="shift ctrl c" />
