@@ -3,9 +3,13 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
@@ -18,8 +22,19 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.less</mask>
-      <mask>*.clj</mask>
       <mask>*.cljs</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.cl</mask>
+      <mask>*.clj(</mask>
+      <mask>*.clj[sc]|</mask>
+      <mask>*.clj[sc]?</mask>
+      <mask>*.clj[sc]</mask>
+      <mask>*.clj[sc</mask>
+      <mask>*.clj[s</mask>
+      <mask>*.clj[</mask>
+      <mask>*.clj</mask>
+      <mask>*.cljc</mask>
     </recentFileMasks>
   </component>
 </application>
