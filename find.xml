@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.clj*" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -19,9 +20,6 @@
       <mask>*.mxml</mask>
       <mask>*.less</mask>
       <mask>*.cljs</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.cl</mask>
       <mask>*.clj(</mask>
       <mask>*.clj[sc]|</mask>
       <mask>*.clj[sc]?</mask>
@@ -29,8 +27,13 @@
       <mask>*.clj[sc</mask>
       <mask>*.clj[s</mask>
       <mask>*.clj[</mask>
-      <mask>*.clj</mask>
       <mask>*.cljc</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.cl</mask>
+      <mask>*.clj?</mask>
+      <mask>*.clj</mask>
+      <mask>*.clj*</mask>
     </recentFileMasks>
   </component>
 </application>
