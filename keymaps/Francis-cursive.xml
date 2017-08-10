@@ -100,7 +100,7 @@
     <keyboard-shortcut first-keystroke="alt c" second-keystroke="alt t" />
   </action>
   <action id=":cursive.repl.actions/search-history">
-    <keyboard-shortcut first-keystroke="alt t" second-keystroke="alt r" />
+    <keyboard-shortcut first-keystroke="alt c" second-keystroke="alt h" />
   </action>
   <action id=":cursive.repl.actions/switch-namespace">
     <keyboard-shortcut first-keystroke="alt c" second-keystroke="alt n" />
@@ -110,6 +110,15 @@
   </action>
   <action id=":cursive.testing.actions/remove-test-markers">
     <keyboard-shortcut first-keystroke="shift ctrl back_space" />
+  </action>
+  <action id=":cursive.testing.actions/rerun-last-test">
+    <keyboard-shortcut first-keystroke="alt t" second-keystroke="alt r" />
+  </action>
+  <action id=":cursive.testing.actions/run-ns-tests">
+    <keyboard-shortcut first-keystroke="alt t" second-keystroke="alt n" />
+  </action>
+  <action id=":cursive.testing.actions/run-single-test">
+    <keyboard-shortcut first-keystroke="alt t" second-keystroke="alt t" />
   </action>
   <action id="CopyPaths">
     <keyboard-shortcut first-keystroke="shift ctrl c" />
