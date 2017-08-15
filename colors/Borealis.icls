@@ -1,6 +1,6 @@
 <scheme name="Borealis" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.25" />
   <option name="EDITOR_FONT_SIZE" value="15" />
-  <option name="EDITOR_LIGATURES" value="true" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
@@ -761,6 +761,11 @@
     </option>
     <option name="METHOD_DECLARATION_ATTRIBUTES">
       <value />
+    </option>
+    <option name="NOT_TOP_FRAME_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="7887a4" />
+      </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
