@@ -1,23 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.cljs</mask>
       <mask>*.clj(</mask>
       <mask>*.clj[sc]|</mask>
       <mask>*.clj[sc]?</mask>
@@ -26,16 +16,26 @@
       <mask>*.clj[s</mask>
       <mask>*.clj[</mask>
       <mask>*.cljc</mask>
-      <mask>*</mask>
-      <mask>*.cl</mask>
       <mask>*.clj?</mask>
       <mask>*.clj*</mask>
-      <mask>*.clj</mask>
-      <mask>*.c</mask>
-      <mask>*.</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*.class</mask>
+      <mask>*.clas</mask>
+      <mask>*.cla</mask>
+      <mask>*.c</mask>
+      <mask>*.j</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
+      <mask>*.*.</mask>
+      <mask>*.*</mask>
+      <mask>s</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.cl</mask>
+      <mask>*.clj</mask>
+      <mask>*.cljs</mask>
     </recentFileMasks>
   </component>
 </application>

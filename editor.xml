@@ -1,4 +1,9 @@
 <application>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="15" />
+    <option name="FONT_FAMILY" value="Fira Code" />
+    <option name="FONT_SCALE" value="1.25" />
+  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
@@ -9,20 +14,8 @@
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
   </component>
   <component name="TodoConfiguration">
-    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
-      <option name="FOREGROUND" value="9296a0" />
-      <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="82acd7" />
-    </pattern>
-    <pattern icon="important" useCustomColors="false" case-sensitive="false" pattern="\b(?:fixme|hack)\b.*">
-      <option name="FOREGROUND" value="9296a0" />
-      <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="82acd7" />
-    </pattern>
-    <pattern icon="question" useCustomColors="false" case-sensitive="false" pattern="\bnote\b.*">
-      <option name="FOREGROUND" value="9296a0" />
-      <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="82acd7" />
-    </pattern>
+    <pattern pattern="\btodo\b.*" />
+    <pattern icon="important" pattern="\b(?:fixme|hack)\b.*" />
+    <pattern icon="question" pattern="\bnote\b.*" />
   </component>
 </application>
