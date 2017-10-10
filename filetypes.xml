@@ -18,8 +18,8 @@
       <mapping ext="less" type="CSS" />
       <mapping ext="boot" type="Clojure" />
       <mapping ext="dtm" type="EDN" />
+      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".gitattributes" type="Git file" />
-      <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="storm-supervisor" type="PLAIN_TEXT" />
       <mapping pattern="StoredCredential" type="PLAIN_TEXT" />
       <mapping pattern="defaults" type="PLAIN_TEXT" />
@@ -29,6 +29,7 @@
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="fo" type="XML" />
+      <mapping pattern="Jenkinsfile" type="Groovy" />
     </extensionMap>
   </component>
 </application>
