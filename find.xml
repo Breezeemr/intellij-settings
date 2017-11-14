@@ -4,12 +4,10 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="localCaseSensitive" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.less" />
+    <option name="FILE_MASK" value="*.cljs" />
     <recentFileMasks>
       <mask>*.mxml</mask>
       <mask>*.clj(</mask>
@@ -35,12 +33,12 @@
       <mask>*.</mask>
       <mask>*.l</mask>
       <mask>*.c</mask>
-      <mask>*.cl</mask>
-      <mask>*.clj</mask>
-      <mask>*.cljs</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*.cl</mask>
+      <mask>*.clj</mask>
+      <mask>*.cljs</mask>
     </recentFileMasks>
   </component>
 </application>
