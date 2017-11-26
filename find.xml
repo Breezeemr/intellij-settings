@@ -1,13 +1,15 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
     <option name="localCaseSensitive" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.clj" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.clj(</mask>
       <mask>*.clj[sc]|</mask>
@@ -30,13 +32,14 @@
       <mask>s</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.cljs</mask>
+      <mask>*.l</mask>
+      <mask>*.c</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
-      <mask>*.c</mask>
       <mask>*.cl</mask>
       <mask>*.clj</mask>
+      <mask>*.cljs</mask>
     </recentFileMasks>
   </component>
 </application>
