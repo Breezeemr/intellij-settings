@@ -3,11 +3,7 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
       <mask>*.mxml</mask>
@@ -30,16 +26,16 @@
       <mask>*.*.</mask>
       <mask>*.*</mask>
       <mask>s</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.l</mask>
       <mask>*.c</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
       <mask>*.cl</mask>
-      <mask>*.clj</mask>
       <mask>*.cljs</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.clj</mask>
     </recentFileMasks>
   </component>
 </application>
