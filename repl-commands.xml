@@ -1,5 +1,0 @@
-<application>
-  <component name="ReplCommandManager">
-    <repl-command name="cljs-repl" executionType="EXPRESSION" commandText="(do (use 'figwheel-sidecar.repl-api) (cljs-repl))" executeBefore="NONE" executionNs="REPL_CURRENT" inNamespace="" />
-  </component>
-</application>
