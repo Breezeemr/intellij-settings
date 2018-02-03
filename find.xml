@@ -3,9 +3,9 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localRegularExpressions" value="true" />
+    <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.mxml</mask>
@@ -30,14 +30,14 @@
       <mask>s</mask>
       <mask>*.l</mask>
       <mask>*.c</mask>
+      <mask>*.cl</mask>
+      <mask>*.cljs</mask>
+      <mask>*.clj</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
-      <mask>*.cl</mask>
-      <mask>*.cljs</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.clj</mask>
     </recentFileMasks>
   </component>
 </application>
