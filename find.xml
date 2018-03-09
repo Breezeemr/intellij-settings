@@ -9,6 +9,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.cljc" />
     <recentFileMasks>
       <mask>*.mxml</mask>
       <mask>*.clj(</mask>
@@ -18,7 +19,6 @@
       <mask>*.clj[sc</mask>
       <mask>*.clj[s</mask>
       <mask>*.clj[</mask>
-      <mask>*.cljc</mask>
       <mask>*.clj?</mask>
       <mask>*.clj*</mask>
       <mask>*.class</mask>
@@ -40,6 +40,7 @@
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*.cljc</mask>
     </recentFileMasks>
   </component>
 </application>
