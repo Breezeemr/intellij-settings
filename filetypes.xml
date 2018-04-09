@@ -11,4 +11,9 @@
     </extensionMap>
     <setting name="fileTypeChangedCounter" value="1" />
   </component>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="csv" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
 </application>
