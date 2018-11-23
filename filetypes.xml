@@ -13,6 +13,7 @@
   </component>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="rrf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
