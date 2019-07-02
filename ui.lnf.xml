@@ -6,6 +6,7 @@
     <option name="MAX_CLIPBOARD_CONTENTS" value="30" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="5" />
     <option name="MAX_LOOKUP_WIDTH2" value="510" />
+    <option name="PRESENTATION_MODE_FONT_SIZE" value="28" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
     <option name="WIDESCREEN_SUPPORT" value="true" />
