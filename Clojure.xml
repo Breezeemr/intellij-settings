@@ -4,5 +4,6 @@
     <option name="separateREPLItems" value="true" />
     <option name="foldNonProjectLines" value="false" />
     <option name="structuralStyle" value="2" />
+    <option name="confirmReplExit" value="false" />
   </component>
 </application>
