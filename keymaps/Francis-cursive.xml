@@ -95,6 +95,7 @@
   </action>
   <action id=":cursive.repl.actions/run-last-sexp">
     <keyboard-shortcut first-keystroke="alt c" second-keystroke="alt c" />
+    <keyboard-shortcut first-keystroke="alt c" second-keystroke="alt d" />
   </action>
   <action id=":cursive.repl.actions/run-top-sexp">
     <keyboard-shortcut first-keystroke="alt c" second-keystroke="alt t" />
