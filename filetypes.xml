@@ -17,12 +17,13 @@
       <mapping ext="postinst" type="Bash" />
       <mapping ext="boot" type="Clojure" />
       <mapping ext="dtm" type="EDN" />
-      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".gitattributes" type="Git file" />
+      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="storm-supervisor" type="PLAIN_TEXT" />
-      <mapping pattern="StoredCredential" type="PLAIN_TEXT" />
       <mapping pattern="defaults" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping pattern="StoredCredential" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
