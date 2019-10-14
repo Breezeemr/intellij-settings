@@ -20,10 +20,11 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
-      <mapping pattern="StoredCredential" type="PLAIN_TEXT" />
       <mapping pattern="defaults" type="PLAIN_TEXT" />
+      <mapping pattern="StoredCredential" type="PLAIN_TEXT" />
       <mapping pattern="storm-supervisor" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="gpg" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
