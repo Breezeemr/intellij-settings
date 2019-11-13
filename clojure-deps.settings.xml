@@ -172,7 +172,6 @@
       </list>
     </option>
     <option name="uberjarPath" value="/usr/local/lib/clojure/libexec/clojure-tools-1.9.0.391.jar" />
-    <option name="useCli" value="false" />
     <option name="version" value="1.10.1.483" />
   </component>
 </application>
