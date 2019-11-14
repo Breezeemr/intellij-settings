@@ -1,6 +1,6 @@
 <application>
   <component name="DepsSettings">
-    <option name="clojureCommandPath" value="/usr/local/bin/clojure" />
+    <option name="clojureCommandPath" value="/usr/local/bin/clj" />
     <option name="configFiles">
       <list>
         <option value="/usr/local/lib/clojure/deps.edn" />
@@ -87,7 +87,7 @@
       </list>
     </option>
     <option name="downloadedToolsDepsVersion" value="0.8.584" />
-    <option name="executableHash" value="-476708332" />
+    <option name="executableHash" value="-895253291" />
     <option name="installPath" value="/usr/local/lib/clojure" />
     <option name="toolsDepsVersion" value="0.8.584" />
     <option name="toolsDepsVersions">
