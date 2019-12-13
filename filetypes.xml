@@ -25,6 +25,7 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="gpg" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="enc" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="fo" type="XML" />
       <mapping ext="postinst" type="Bash" />
