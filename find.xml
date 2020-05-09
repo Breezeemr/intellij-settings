@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '~/master-at-arms/schemas/meta-schema-tools/src/com/breezeehr/meta_schema_tools.clj [meta-schema-tools]'" />
+    <option name="defaultScopeName" value="File '~/master-at-arms/schemas/meta-schema-tools/src/com/breezeehr/meta_schema_tools.clj [meta-schema-tools]'" />
+    <option name="SEARCH_SCOPE" value="File '~/master-at-arms/schemas/meta-schema-tools/src/com/breezeehr/meta_schema_tools.clj [meta-schema-tools]'" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
