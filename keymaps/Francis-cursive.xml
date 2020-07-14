@@ -126,6 +126,10 @@
     <keyboard-shortcut first-keystroke="shift meta c" />
   </action>
   <action id="DecrementWindowHeight" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+  </action>
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="ctrl c" />
     <keyboard-shortcut first-keystroke="meta c" />
@@ -177,4 +181,11 @@
   </action>
   <action id="ToggleBookmark0" />
   <action id="ToggleBookmark9" />
+  <action id="UpdateRunningApplication" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
 </keymap>
